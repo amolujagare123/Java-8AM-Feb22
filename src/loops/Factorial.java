@@ -1,3 +1,5 @@
+package loops;
+
 public class Factorial {
 
     public static void main(String[] args) {
@@ -10,6 +12,6 @@ public class Factorial {
             mult = mult * i;
         }
 
-        System.out.println("Factorial="+mult);
+        System.out.println("loops.Factorial="+mult);
     }
 }

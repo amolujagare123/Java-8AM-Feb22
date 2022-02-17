@@ -1,3 +1,5 @@
+package loops;
+
 public class FibonanciiSeries {
 
     public static void main(String[] args) {
