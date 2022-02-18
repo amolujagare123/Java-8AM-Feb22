@@ -1,3 +1,5 @@
+package JavaBasics;
+
 public class Addition {
    // psvm
     public static void main(String[] args) {

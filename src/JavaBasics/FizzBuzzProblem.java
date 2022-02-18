@@ -1,3 +1,5 @@
+package JavaBasics;
+
 public class FizzBuzzProblem {
 
     public static void main(String[] args) {

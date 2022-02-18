@@ -1,3 +1,5 @@
+package loops;
+
 public class ForLoopEvenodd {
 
     public static void main(String[] args) {
