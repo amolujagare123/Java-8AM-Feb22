@@ -7,9 +7,9 @@ public class Java3 {
     public static void main(String[] args) {
         Java1 ob = new Java1();
         ob.a =90;
-        ob.d =9.9;
+      //  ob.d =9.9;
         ob.c='c';
-        ob.str="vaibhav";
-        ob.display();
+       ob.str="vaibhav";
+     //   ob.display();
     }
 }
