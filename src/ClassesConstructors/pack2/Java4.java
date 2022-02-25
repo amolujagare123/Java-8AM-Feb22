@@ -8,7 +8,7 @@ public class Java4 extends Java1 {
         Java1 ob = new Java1();
         ob.a =90;
      //   ob.d =9.9;
-        ob.c='c';
+   /*     ob.c='c';
         ob.str="vaibhav";
     //    ob.display();
 
@@ -16,6 +16,6 @@ public class Java4 extends Java1 {
         j4.str ="amol";
 
         j4.c = 'c';
-        j4.d =9.0;
+        j4.d =9.0;*/
     }
 }

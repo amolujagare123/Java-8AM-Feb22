@@ -8,8 +8,8 @@ public class Java3 {
         Java1 ob = new Java1();
         ob.a =90;
       //  ob.d =9.9;
-        ob.c='c';
-       ob.str="vaibhav";
+     /*   ob.c='c';
+       ob.str="vaibhav";*/
      //   ob.display();
     }
 }
