@@ -2,23 +2,23 @@ package ClassesConstructors;
 
 public class MyClass {
 
-    int a;
-    double d;
-    char c;
-    String str; // data members
+    public int a;
+    public double d;
+    public char c;
+    public String str; // data members
 
-    void test()
+    public void test()
     {
         System.out.println("test method");
     }
 
-    void display() // member functions
+    public void display() // member functions
     {
         System.out.println("a="+a);
         System.out.println("d="+d);
         System.out.println("c="+c);
         System.out.println("str="+str);
-        test();
+       // test();
     }
 
 
