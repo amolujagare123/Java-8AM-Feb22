@@ -6,7 +6,7 @@ public class DivisonOperation {
 
         int a = 10;
         int b = 0 ;
-        int c=0;
+        int c = 0;
 
         try {
             c = a/b;
@@ -15,8 +15,11 @@ public class DivisonOperation {
         {
             System.out.println("Inside catch");
             System.out.println(e.getMessage());
-            e.printStackTrace();
+            //e.printStackTrace();
         }
+      /*  finally {
+            System.out.println("Exiting from try catch block");
+        }*/
 
         System.out.println("c="+c);
         System.out.println("End of the program");

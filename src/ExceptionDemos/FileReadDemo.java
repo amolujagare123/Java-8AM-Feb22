@@ -7,9 +7,15 @@ public class FileReadDemo {
 
     public static void main(String[] args) throws FileNotFoundException {
 
+        FileInputStream fis = new FileInputStream("D:\\amol.txt");
 
-        FileInputStream fis = new FileInputStream("D:\\amol1.txt");
+       /* try {
+            FileInputStream fis = new FileInputStream("D:\\amol.txt");
+        }
+        catch (Exception e)
+        {
 
+        }*/
         System.out.println("End of the program");
 
     }
