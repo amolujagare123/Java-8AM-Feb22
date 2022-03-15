@@ -15,7 +15,10 @@ public class CharArray {
 
         // length ->istance varible
 
-        for (int i=0;i<ch.length;i++)
-            System.out.println(ch[i]);
+        /*for (int i=0;i<ch.length;i++)
+            System.out.println(ch[i]);*/
+
+        for (char myChar : ch)
+            System.out.println(myChar);
     }
 }
